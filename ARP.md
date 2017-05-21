@@ -32,7 +32,7 @@
 ### Visual Trackers
 - [**SANet: Structure-Aware Network for Visual Tracking**](http://www.dabi.temple.edu/~hbling/code/SANet/SANet.html).
   - [Paper](http://www.dabi.temple.edu/~hbling/publication/SANet.pdf).
-  - Author's [code](http://www.dabi.temple.edu/~hbling/code/SANet/sanet_code.zip).
+  - Author's Matlab [code](http://www.dabi.temple.edu/~hbling/code/SANet/sanet_code.zip).
   
 - [**MDNet: Multi-Domain Convolutional Neural Network Tracker**](http://cvlab.postech.ac.kr/research/mdnet/).
   - [Paper](https://arxiv.org/pdf/1510.07945v2.pdf).
