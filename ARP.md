@@ -11,7 +11,7 @@
   - Additional TensorFlow implementations [here](https://github.com/CharlesShang/TFFRCNN), [here](https://github.com/endernewton/tf-faster-rcnn) and [here](https://github.com/smallcorgi/Faster-RCNN_TF).
   - PyTorch implementation [here](https://github.com/longcw/faster_rcnn_pytorch).
   - Recent method improvement: 
-    - *Face Detection using Deep Learning: An Improved Faster RCNN Approach* [[Paper](https://arxiv.org/abs/1701.08289)] [Non-official code (python Caffe](https://github.com/playerkk/face-py-faster-rcnn).
+    - *Face Detection using Deep Learning: An Improved Faster RCNN Approach* [[Paper](https://arxiv.org/abs/1701.08289)] [[Non-official code (python Caffe](https://github.com/playerkk/face-py-faster-rcnn)].
 
 - [**MTCNN: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html). 
   - [Paper](https://arxiv.org/abs/1604.02878). 
