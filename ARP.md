@@ -6,8 +6,10 @@
   - It's based on [this code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation).
 
 ### Face/Object Detection
-- [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://github.com/rbgirshick/py-faster-rcnn).
+- [**Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** (python Caffe)](https://github.com/rbgirshick/py-faster-rcnn).
   - [Paper](https://arxiv.org/abs/1506.01497).
+  - Additional TensorFlow implementations [here](https://github.com/CharlesShang/TFFRCNN), [here](https://github.com/endernewton/tf-faster-rcnn) and [here](https://github.com/smallcorgi/Faster-RCNN_TF).
+  - PyTorch implementation [here](https://github.com/longcw/faster_rcnn_pytorch).
 
 - [**MTCNN: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html). 
   - [Paper](https://arxiv.org/abs/1604.02878). 
