@@ -20,7 +20,9 @@
 - [[Paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/ijcv_deformable_tracking_review.pdf)] A Comprehensive Performance Evaluation of Deformable Face
 Tracking “In-the-Wild”.
 
-### Face Recognition (won't be used, but maybe there's useful code or insights)
+### Face Recognition
+\* *face recognition won't be used, but maybe there's useful code or insights*
+
 - [**FaceNet: A Unified Embedding for Face Recognition and Clustering**](https://github.com/davidsandberg/facenet). 
   - Papers [here](https://arxiv.org/abs/1503.03832), [here](http://ydwen.github.io/papers/WenECCV16.pdf) and [here](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf). 
   - Instructions for training on custom images [here](https://github.com/davidsandberg/facenet/wiki/Train-a-classifier-on-own-images).
