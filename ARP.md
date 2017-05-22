@@ -61,4 +61,6 @@ Tracking “In-the-Wild”.
   - [Paper](https://arxiv.org/pdf/1611.09224v1.pdf).
   - Author's Matlab [code](https://github.com/martin-danelljan/ECO). GPU version coming soon?
 
-
+### Datasets
+- [FDDB: Face Detection Data Set and Benchmark](http://vis-www.cs.umass.edu/fddb/).
+- [First Affect-in-the-Wild Challenge](https://ibug.doc.ic.ac.uk/resources). [[Videos](https://www.dropbox.com/s/uv3oq7qtyb4qxzi/train.zip?dl=1)] [[Annotations](https://www.dropbox.com/s/3ydatoxj5tirc37/cvpr_mean_annotations_train.zip?dl=1)]
