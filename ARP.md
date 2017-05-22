@@ -10,6 +10,9 @@
   - [Paper](https://arxiv.org/abs/1604.02878). 
   - Caffe [code](https://github.com/kpzhang93/MTCNN_face_detection_alignment). 
   - TensorFlow [code](https://github.com/davidsandberg/facenet/tree/master/src/align).
+  
+- [**HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition** (non-official implementation)](https://github.com/takiyu/hyperface).
+  - [Paper](https://arxiv.org/pdf/1603.01249.pdf).
 
 - [**OpenFace (UC)**](http://www.cl.cam.ac.uk/research/rainbow/projects/openface/).
   - [Code](https://github.com/TadasBaltrusaitis/OpenFace).
@@ -17,8 +20,7 @@
 
 - [**LibFaceDetection** (binares only, commercial license)](https://github.com/ShiqiYu/libfacedetection).
 
-- [[Paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/ijcv_deformable_tracking_review.pdf)] A Comprehensive Performance Evaluation of Deformable Face
-Tracking “In-the-Wild”.
+- [[Paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/ijcv_deformable_tracking_review.pdf)] A Comprehensive Performance Evaluation of Deformable Face Tracking “In-the-Wild”.
 
 ### Face Recognition
 \* *face recognition won't be used, but maybe there's useful code or insights*
@@ -57,7 +59,7 @@ Tracking “In-the-Wild”.
 - [**MDNet: Multi-Domain Convolutional Neural Network Tracker**](http://cvlab.postech.ac.kr/research/mdnet/).
   - [Paper](https://arxiv.org/pdf/1510.07945v2.pdf).
   - Author's Matlab [code](https://github.com/HyeonseobNam/MDNet).
-  - TensorFlow [code](https://github.com/AlexQie/MDNet) (check quality).
+  - TensorFlow [code](https://github.com/AlexQie/MDNet) (non-official implementation).
   
 - [**ECO: Efficient Convolution Operators for Tracking**](http://www.cvl.isy.liu.se/research/objrec/visualtracking/ecotrack/index.html).
   - [Paper](https://arxiv.org/pdf/1611.09224v1.pdf).
