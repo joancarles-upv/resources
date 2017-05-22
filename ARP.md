@@ -5,7 +5,19 @@
   - Paper [here](https://arxiv.org/abs/1611.08050).
   - It's based on [this code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation).
 
-### Face Recognition
+### Face Detection
+- [**MTCNN: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html). 
+  - [Paper](https://arxiv.org/abs/1604.02878). 
+  - Caffe [code](https://github.com/kpzhang93/MTCNN_face_detection_alignment). 
+  - TensorFlow [code](https://github.com/davidsandberg/facenet/tree/master/src/align).
+
+- [OpenFace(UC)](http://www.cl.cam.ac.uk/research/rainbow/projects/openface/).
+  - [Code](https://github.com/TadasBaltrusaitis/OpenFace).
+  - [Wiki](https://github.com/TadasBaltrusaitis/OpenFace/wiki).
+
+- [LibFaceDetection (binares only, commercial license)](https://github.com/ShiqiYu/libfacedetection).
+
+### Face Recognition (won't be used, but maybe there's useful code or insights)
 - [**FaceNet: A Unified Embedding for Face Recognition and Clustering**](https://github.com/davidsandberg/facenet). 
   - Papers [here](https://arxiv.org/abs/1503.03832), [here](http://ydwen.github.io/papers/WenECCV16.pdf) and [here](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf). 
   - Instructions for training on custom images [here](https://github.com/davidsandberg/facenet/wiki/Train-a-classifier-on-own-images).
@@ -13,11 +25,6 @@
 - [**OpenFace (it is also based on FaceNet): A general-purpose face recognition library with mobile applications**](http://cmusatyalab.github.io/openface/)
   - Paper [here](http://elijah.cs.cmu.edu/DOCS/CMU-CS-16-118.pdf).
   - [Code](https://github.com/cmusatyalab/openface/).
-
-- [**MTCNN: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html). 
-  - [Paper](https://arxiv.org/abs/1604.02878). 
-  - Caffe [code](https://github.com/kpzhang93/MTCNN_face_detection_alignment). 
-  - TensorFlow [code](https://github.com/davidsandberg/facenet/tree/master/src/align).
 
 ### Age and Gender Recognition
 - [**Age and Gender Classification using Convolutional Neural Networks**](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/).
@@ -51,7 +58,4 @@
   - [Paper](https://arxiv.org/pdf/1611.09224v1.pdf).
   - Author's Matlab [code](https://github.com/martin-danelljan/ECO). GPU version coming soon?
 
-### Datasets
-- [**CASIA WebFace Database**](http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html).
 
-- [**MS-Celeb-1M**](https://msceleb.github.io/). Paper [here](https://www.microsoft.com/en-us/research/publication/ms-celeb-1m-dataset-benchmark-large-scale-face-recognition-2/).
