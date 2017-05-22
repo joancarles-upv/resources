@@ -20,6 +20,7 @@
 
 - [**LibFaceDetection** (binares only, commercial license)](https://github.com/ShiqiYu/libfacedetection).
 
+- [[Paper](https://arxiv.org/pdf/1705.02402v1.pdf)] Face Detection, Bounding Box Aggregation and Pose Estimation for Robust Facial Landmark Localisation in the Wild
 - [[Paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/ijcv_deformable_tracking_review.pdf)] A Comprehensive Performance Evaluation of Deformable Face Tracking “In-the-Wild”.
 
 ### Face Recognition
