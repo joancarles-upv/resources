@@ -10,7 +10,7 @@
   - Papers [here](https://arxiv.org/abs/1503.03832), [here](http://ydwen.github.io/papers/WenECCV16.pdf) and [here](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf). 
   - Instructions for training on custom images [here](https://github.com/davidsandberg/facenet/wiki/Train-a-classifier-on-own-images).
 
-- [**OpenFace: A general-purpose face recognition library with mobile applications**](http://cmusatyalab.github.io/openface/)
+- [**OpenFace (it is also based on FaceNet): A general-purpose face recognition library with mobile applications**](http://cmusatyalab.github.io/openface/)
   - Paper [here](http://elijah.cs.cmu.edu/DOCS/CMU-CS-16-118.pdf).
   - [Code](https://github.com/cmusatyalab/openface/).
 
