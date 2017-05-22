@@ -6,7 +6,7 @@
   - It's based on [this code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation).
 
 ### Face Detection
-- [Face Detection using Deep Learning: An Improved Faster RCNN Approach](https://github.com/rbgirshick/py-faster-rcnn).
+- [**Face Detection using Deep Learning: An Improved Faster RCNN Approach**](https://github.com/rbgirshick/py-faster-rcnn).
   - [Paper](https://arxiv.org/abs/1701.08289).
 
 - [**MTCNN: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html). 
