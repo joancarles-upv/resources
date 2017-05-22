@@ -10,6 +10,8 @@
   - [Paper](https://arxiv.org/abs/1506.01497).
   - Additional TensorFlow implementations [here](https://github.com/CharlesShang/TFFRCNN), [here](https://github.com/endernewton/tf-faster-rcnn) and [here](https://github.com/smallcorgi/Faster-RCNN_TF).
   - PyTorch implementation [here](https://github.com/longcw/faster_rcnn_pytorch).
+  - Recent method improvement: 
+    - *Face Detection using Deep Learning: An Improved Faster RCNN Approach* [[Paper](https://arxiv.org/abs/1701.08289)] [Non-official code (python Caffe](https://github.com/playerkk/face-py-faster-rcnn).
 
 - [**MTCNN: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html). 
   - [Paper](https://arxiv.org/abs/1604.02878). 
@@ -25,9 +27,8 @@
 
 - [**LibFaceDetection** (binares only, commercial license)](https://github.com/ShiqiYu/libfacedetection).
 
-- [[Paper](https://arxiv.org/abs/1701.08289)] Face Detection using Deep Learning: An Improved Faster RCNN Approach
-- [[Paper](https://arxiv.org/abs/1705.02402v1)] Face Detection, Bounding Box Aggregation and Pose Estimation for Robust Facial Landmark Localisation in the Wild
-- [[Paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/ijcv_deformable_tracking_review.pdf)] A Comprehensive Performance Evaluation of Deformable Face Tracking “In-the-Wild”.
+- [[Paper](https://arxiv.org/abs/1705.02402v1)] *Face Detection, Bounding Box Aggregation and Pose Estimation for Robust Facial Landmark Localisation in the Wild*
+- [[Paper](https://ibug.doc.ic.ac.uk/media/uploads/documents/ijcv_deformable_tracking_review.pdf)] *A Comprehensive Performance Evaluation of Deformable Face Tracking “In-the-Wild”*.
 
 ### Face Recognition
 \* *face recognition won't be used, but maybe there's useful code or insights*
