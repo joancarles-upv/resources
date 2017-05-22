@@ -30,9 +30,12 @@
   - Datasets (faces only): [IMDB (7GB)](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_crop.tar) and [Wiki (1GB)](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar).
 
 ### Emotion Recognition
-- Reuse Master's thesis work based on RNN?
+- Reuse thesis work based on RNN?
 - [Recurrent Neural Networks for Emotion Recognition in Video](https://github.com/saebrahimi/Emotion-Recognition-RNN).
   - [Paper](http://www-etud.iro.umontreal.ca/~michals/pdf/emotion_rnns.pdf).
+- [Deep learning API with emotion recognition application](https://github.com/mihaelacr/pydeeplearn).
+  - Project [report](http://www.doc.ic.ac.uk/teaching/distinguished-projects/2014/mrosca.pdf).
+  - [How to](https://github.com/mihaelacr/pydeeplearn/blob/master/code/webcam-emotion-recognition/Readme.md) run the code.
 
 ### Visual Trackers
 - [**SANet: Structure-Aware Network for Visual Tracking**](http://www.dabi.temple.edu/~hbling/code/SANet/SANet.html).
