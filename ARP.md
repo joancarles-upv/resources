@@ -6,13 +6,16 @@
   - It's based on [this code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation).
 
 ### Face Detection
+- [Face Detection using Deep Learning: An Improved Faster RCNN Approach](https://github.com/rbgirshick/py-faster-rcnn).
+  - [Paper](https://arxiv.org/abs/1701.08289).
+
 - [**MTCNN: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html). 
   - [Paper](https://arxiv.org/abs/1604.02878). 
   - Caffe [code](https://github.com/kpzhang93/MTCNN_face_detection_alignment). 
   - TensorFlow [code](https://github.com/davidsandberg/facenet/tree/master/src/align).
   
 - [**HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition** (non-official implementation)](https://github.com/takiyu/hyperface).
-  - [Paper](https://arxiv.org/pdf/1603.01249.pdf).
+  - [Paper](https://arxiv.org/abs/1603.01249).
 
 - [**OpenFace (UC)**](http://www.cl.cam.ac.uk/research/rainbow/projects/openface/).
   - [Code](https://github.com/TadasBaltrusaitis/OpenFace).
