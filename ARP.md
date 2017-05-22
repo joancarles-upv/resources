@@ -29,6 +29,11 @@
   - [Paper](https://www.vision.ee.ethz.ch/en/publications/papers/articles/eth_biwi_01299.pdf).
   - Datasets (faces only): [IMDB (7GB)](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_crop.tar) and [Wiki (1GB)](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar).
 
+### Emotion Recognition
+- Reuse Master's thesis work?
+- [Recurrent Neural Networks for Emotion Recognition in Video](https://github.com/saebrahimi/Emotion-Recognition-RNN).
+  - [Paper](http://www-etud.iro.umontreal.ca/~michals/pdf/emotion_rnns.pdf).
+
 ### Visual Trackers
 - [**SANet: Structure-Aware Network for Visual Tracking**](http://www.dabi.temple.edu/~hbling/code/SANet/SANet.html).
   - [Paper](http://www.dabi.temple.edu/~hbling/publication/SANet.pdf).
