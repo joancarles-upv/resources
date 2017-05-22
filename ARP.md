@@ -11,11 +11,11 @@
   - Caffe [code](https://github.com/kpzhang93/MTCNN_face_detection_alignment). 
   - TensorFlow [code](https://github.com/davidsandberg/facenet/tree/master/src/align).
 
-- [OpenFace(UC)](http://www.cl.cam.ac.uk/research/rainbow/projects/openface/).
+- [**OpenFace (UC)**](http://www.cl.cam.ac.uk/research/rainbow/projects/openface/).
   - [Code](https://github.com/TadasBaltrusaitis/OpenFace).
   - [Wiki](https://github.com/TadasBaltrusaitis/OpenFace/wiki).
 
-- [LibFaceDetection (binares only, commercial license)](https://github.com/ShiqiYu/libfacedetection).
+- [**LibFaceDetection** (binares only, commercial license)](https://github.com/ShiqiYu/libfacedetection).
 
 ### Face Recognition (won't be used, but maybe there's useful code or insights)
 - [**FaceNet: A Unified Embedding for Face Recognition and Clustering**](https://github.com/davidsandberg/facenet). 
