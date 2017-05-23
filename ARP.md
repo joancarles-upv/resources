@@ -1,11 +1,23 @@
 # ARP resources
 
+### Action Recognition
+- [[Paper](https://arxiv.org/abs/1704.07333)] *Detecting and Recognizing Human-Object Interactions*.
+
+- [**Contextual Action Recognition with R\*CNN**](https://github.com/gkioxari/RstarCNN).
+  - [Paper](https://arxiv.org/abs/1505.01197).
+
+- Georgia Gkioxari [page](https://people.eecs.berkeley.edu/~gkioxari/).
+
 ### Pose Estimation
 - [**OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library**](https://github.com/CMU-Perceptual-Computing-Lab/openpose).
   - Paper [here](https://arxiv.org/abs/1611.08050).
   - It's based on [this code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation).
 
 ### Face/Object Detection
+- [**Mask R-CNN** (non-official TensorFlow code)](https://github.com/CharlesShang/FastMaskRCNN).
+  - [Paper](https://arxiv.org/abs/1703.06870).
+  - PyTorch [code](https://github.com/felixgwu/mask_rcnn_pytorch).
+
 - [**Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** (python Caffe)](https://github.com/rbgirshick/py-faster-rcnn).
   - [Paper](https://arxiv.org/abs/1506.01497).
   - Additional TensorFlow implementations [here](https://github.com/CharlesShang/TFFRCNN), [here](https://github.com/endernewton/tf-faster-rcnn) and [here](https://github.com/smallcorgi/Faster-RCNN_TF).
@@ -18,9 +30,6 @@
   - Caffe [code](https://github.com/kpzhang93/MTCNN_face_detection_alignment). 
   - TensorFlow [code](https://github.com/davidsandberg/facenet/tree/master/src/align).
   
-- [**HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition** (non-official implementation)](https://github.com/takiyu/hyperface).
-  - [Paper](https://arxiv.org/abs/1603.01249).
-
 - [**OpenFace (UC)**](http://www.cl.cam.ac.uk/research/rainbow/projects/openface/).
   - [Code](https://github.com/TadasBaltrusaitis/OpenFace).
   - [Wiki](https://github.com/TadasBaltrusaitis/OpenFace/wiki).
