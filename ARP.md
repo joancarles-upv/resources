@@ -85,3 +85,4 @@
 - [FDDB: Face Detection Data Set and Benchmark](http://vis-www.cs.umass.edu/fddb/).
 - [LFW: Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/).
 - [First Affect-in-the-Wild Challenge](https://ibug.doc.ic.ac.uk/resources). [[Videos](https://www.dropbox.com/s/uv3oq7qtyb4qxzi/train.zip?dl=1)] [[Annotations](https://www.dropbox.com/s/3ydatoxj5tirc37/cvpr_mean_annotations_train.zip?dl=1)]
+- **Facial Expression** datasets list [here](https://en.wikipedia.org/wiki/Facial_expression_databases).
