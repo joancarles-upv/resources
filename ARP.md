@@ -55,6 +55,8 @@
 - [Deep learning API with emotion recognition application](https://github.com/mihaelacr/pydeeplearn).
   - Project [report](http://www.doc.ic.ac.uk/teaching/distinguished-projects/2014/mrosca.pdf).
   - [How to](https://github.com/mihaelacr/pydeeplearn/blob/master/code/webcam-emotion-recognition/Readme.md) run the code.
+  
+- [[Paper](https://arxiv.org/abs/1705.04515v1)] *Spatial-Temporal Recurrent Neural Network for Emotion Recognition* (12 May 2017).
 
 ## Recommender Systems
 - Stanford Infolab [notes](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf).
