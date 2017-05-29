@@ -5,6 +5,9 @@
   - Paper [here](https://arxiv.org/abs/1611.08050).
   - It's based on [this code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation).
 
+- [[Paper](https://arxiv.org/abs/1608.03932)] *Human Pose Estimation from Depth Images via Inference Embedded Multi-task Learnings*.
+
+
 ### Face/Object Detection
 - [**Mask R-CNN** (non-official TensorFlow code)](https://github.com/CharlesShang/FastMaskRCNN).
   - [Paper](https://arxiv.org/abs/1703.06870).
@@ -62,6 +65,9 @@
 - Stanford Infolab [notes](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf).
 - [List](https://github.com/grahamjenson/list_of_recommender_systems) of recommender systems.
 - Deep learning [resources](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems) for recommender systems.
+
+- [[Paper](https://arxiv.org/abs/1606.07792v1)] *Wide & Deep Learning for Recommender Systems* (Google).
+
 
 ### Visual Trackers
 - [**SANet: Structure-Aware Network for Visual Tracking**](http://www.dabi.temple.edu/~hbling/code/SANet/SANet.html).
