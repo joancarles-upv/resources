@@ -67,6 +67,7 @@
 - Deep learning [resources](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems) for recommender systems.
 
 - [[Paper](https://arxiv.org/abs/1606.07792v1)] *Wide & Deep Learning for Recommender Systems* (Google).
+  - Official Tensorflow [tutorial](https://www.tensorflow.org/versions/r0.10/tutorials/wide_and_deep/).
 
 
 ### Visual Trackers
