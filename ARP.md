@@ -1,13 +1,5 @@
 # ARP resources
 
-### Action Recognition
-- [[Paper](https://arxiv.org/abs/1704.07333)] *Detecting and Recognizing Human-Object Interactions*.
-
-- [**Contextual Action Recognition with R\*CNN**](https://github.com/gkioxari/RstarCNN).
-  - [Paper](https://arxiv.org/abs/1505.01197).
-
-- Georgia Gkioxari [page](https://people.eecs.berkeley.edu/~gkioxari/).
-
 ### Pose Estimation
 - [**OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library**](https://github.com/CMU-Perceptual-Computing-Lab/openpose).
   - Paper [here](https://arxiv.org/abs/1611.08050).
@@ -84,6 +76,14 @@
 - [**ECO: Efficient Convolution Operators for Tracking**](http://www.cvl.isy.liu.se/research/objrec/visualtracking/ecotrack/index.html).
   - [Paper](https://arxiv.org/pdf/1611.09224v1.pdf).
   - Author's Matlab [code](https://github.com/martin-danelljan/ECO). GPU version coming soon?
+
+### Action Recognition
+- [[Paper](https://arxiv.org/abs/1704.07333)] *Detecting and Recognizing Human-Object Interactions*.
+
+- [**Contextual Action Recognition with R\*CNN**](https://github.com/gkioxari/RstarCNN).
+  - [Paper](https://arxiv.org/abs/1505.01197).
+
+- Georgia Gkioxari [page](https://people.eecs.berkeley.edu/~gkioxari/).
 
 ### Datasets
 - [WIDER FACE: A Face Detection Benchmark](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/).
