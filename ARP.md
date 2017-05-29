@@ -66,6 +66,11 @@
   - Project [report](http://www.doc.ic.ac.uk/teaching/distinguished-projects/2014/mrosca.pdf).
   - [How to](https://github.com/mihaelacr/pydeeplearn/blob/master/code/webcam-emotion-recognition/Readme.md) run the code.
 
+## Recommender Systems
+- Stanford Infolab [notes](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf).
+- [List](https://github.com/grahamjenson/list_of_recommender_systems) of recommender systems.
+- Deep learning [resources](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems) for recommender systems.
+
 ### Visual Trackers
 - [**SANet: Structure-Aware Network for Visual Tracking**](http://www.dabi.temple.edu/~hbling/code/SANet/SANet.html).
   - [Paper](http://www.dabi.temple.edu/~hbling/publication/SANet.pdf).
