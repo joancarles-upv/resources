@@ -65,6 +65,7 @@
 - [[Google paper](https://arxiv.org/abs/1606.07792v1)] **Wide & Deep Learning for Recommender Systems** (2016).
   - Official Tensorflow [tutorial](https://www.tensorflow.org/versions/r0.10/tutorials/wide_and_deep/).
   - Google research [blog post](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html).
+  - It's part of the [TF.Learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) API.
 
 - Stanford Infolab [notes](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf).
 
