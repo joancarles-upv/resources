@@ -74,14 +74,14 @@
 - Deep learning [resources](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems) for recommender systems.
 
 ### Visual Object Tracking
-- [**SANet: Structure-Aware Network for Visual Tracking**](http://www.dabi.temple.edu/~hbling/code/SANet/SANet.html).
-  - [Paper](http://www.dabi.temple.edu/~hbling/publication/SANet.pdf).
-  - Author's Matlab [code](http://www.dabi.temple.edu/~hbling/code/SANet/sanet_code.zip).
-  
 - [**MDNet: Multi-Domain Convolutional Neural Network Tracker**](http://cvlab.postech.ac.kr/research/mdnet/).
   - [Paper](https://arxiv.org/pdf/1510.07945v2.pdf).
   - Author's Matlab [code](https://github.com/HyeonseobNam/MDNet).
-  - TensorFlow [code](https://github.com/AlexQie/MDNet) (non-official implementation).
+  - PyTorch [code](https://github.com/HyeonseobNam/py-MDNet) (non-official implementation).
+  
+- [**SANet: Structure-Aware Network for Visual Tracking**](http://www.dabi.temple.edu/~hbling/code/SANet/SANet.html).
+  - [Paper](http://www.dabi.temple.edu/~hbling/publication/SANet.pdf).
+  - Author's Matlab [code](http://www.dabi.temple.edu/~hbling/code/SANet/sanet_code.zip).
   
 - [**ECO: Efficient Convolution Operators for Tracking**](http://www.cvl.isy.liu.se/research/objrec/visualtracking/ecotrack/index.html).
   - [Paper](https://arxiv.org/pdf/1611.09224v1.pdf).
