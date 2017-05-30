@@ -73,7 +73,7 @@
 
 - Deep learning [resources](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems) for recommender systems.
 
-### Visual Trackers
+### Visual Object Tracking
 - [**SANet: Structure-Aware Network for Visual Tracking**](http://www.dabi.temple.edu/~hbling/code/SANet/SANet.html).
   - [Paper](http://www.dabi.temple.edu/~hbling/publication/SANet.pdf).
   - Author's Matlab [code](http://www.dabi.temple.edu/~hbling/code/SANet/sanet_code.zip).
@@ -86,6 +86,8 @@
 - [**ECO: Efficient Convolution Operators for Tracking**](http://www.cvl.isy.liu.se/research/objrec/visualtracking/ecotrack/index.html).
   - [Paper](https://arxiv.org/pdf/1611.09224v1.pdf).
   - Author's Matlab [code](https://github.com/martin-danelljan/ECO). GPU version coming soon?
+
+- **Visual Object Tracking Challenge (VOT)** [homepage](http://www.votchallenge.net/).
 
 ### Action Recognition
 - [[Paper](https://arxiv.org/abs/1704.07333)] *Detecting and Recognizing Human-Object Interactions*.
