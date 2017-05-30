@@ -62,13 +62,15 @@
 - [[Paper](https://arxiv.org/abs/1705.04515v1)] *Spatial-Temporal Recurrent Neural Network for Emotion Recognition* (12 May 2017).
 
 ## Recommender Systems
-- Stanford Infolab [notes](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf).
-- [List](https://github.com/grahamjenson/list_of_recommender_systems) of recommender systems.
-- Deep learning [resources](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems) for recommender systems.
-
-- [[Paper](https://arxiv.org/abs/1606.07792v1)] *Wide & Deep Learning for Recommender Systems* (Google).
+- [[Google paper](https://arxiv.org/abs/1606.07792v1)] **Wide & Deep Learning for Recommender Systems** (2016).
   - Official Tensorflow [tutorial](https://www.tensorflow.org/versions/r0.10/tutorials/wide_and_deep/).
+  - Google research [blog post](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html).
 
+- Stanford Infolab [notes](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf).
+
+- [List](https://github.com/grahamjenson/list_of_recommender_systems) of recommender systems.
+
+- Deep learning [resources](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems) for recommender systems.
 
 ### Visual Trackers
 - [**SANet: Structure-Aware Network for Visual Tracking**](http://www.dabi.temple.edu/~hbling/code/SANet/SANet.html).
