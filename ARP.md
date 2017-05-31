@@ -7,6 +7,19 @@
 
 - [[Paper](https://arxiv.org/abs/1608.03932)] *Human Pose Estimation from Depth Images via Inference Embedded Multi-task Learnings*.
 
+### Visual Object Tracking
+- [**MDNet: Multi-Domain Convolutional Neural Network Tracker**](http://cvlab.postech.ac.kr/research/mdnet/).
+  - [Paper](https://arxiv.org/pdf/1510.07945v2.pdf).
+  - Author's Matlab [code](https://github.com/HyeonseobNam/MDNet).
+  - Author's PyTorch [code](https://github.com/HyeonseobNam/py-MDNet).
+  
+- [**SANet: Structure-Aware Network for Visual Tracking**](http://www.dabi.temple.edu/~hbling/code/SANet/SANet.html).
+  - [Paper](http://www.dabi.temple.edu/~hbling/publication/SANet.pdf).
+  - Author's Matlab [code](http://www.dabi.temple.edu/~hbling/code/SANet/sanet_code.zip).
+  
+- [**ECO: Efficient Convolution Operators for Tracking**](http://www.cvl.isy.liu.se/research/objrec/visualtracking/ecotrack/index.html).
+  - [Paper](https://arxiv.org/pdf/1611.09224v1.pdf).
+  - Author's Matlab [code](https://github.com/martin-danelljan/ECO). GPU version coming soon?
 
 ### Face/Object Detection
 - [**Mask R-CNN** (non-official TensorFlow code)](https://github.com/CharlesShang/FastMaskRCNN).
@@ -72,22 +85,6 @@
 - [List](https://github.com/grahamjenson/list_of_recommender_systems) of recommender systems.
 
 - Deep learning [resources](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems) for recommender systems.
-
-### Visual Object Tracking
-- [**MDNet: Multi-Domain Convolutional Neural Network Tracker**](http://cvlab.postech.ac.kr/research/mdnet/).
-  - [Paper](https://arxiv.org/pdf/1510.07945v2.pdf).
-  - Author's Matlab [code](https://github.com/HyeonseobNam/MDNet).
-  - Author's PyTorch [code](https://github.com/HyeonseobNam/py-MDNet).
-  
-- [**SANet: Structure-Aware Network for Visual Tracking**](http://www.dabi.temple.edu/~hbling/code/SANet/SANet.html).
-  - [Paper](http://www.dabi.temple.edu/~hbling/publication/SANet.pdf).
-  - Author's Matlab [code](http://www.dabi.temple.edu/~hbling/code/SANet/sanet_code.zip).
-  
-- [**ECO: Efficient Convolution Operators for Tracking**](http://www.cvl.isy.liu.se/research/objrec/visualtracking/ecotrack/index.html).
-  - [Paper](https://arxiv.org/pdf/1611.09224v1.pdf).
-  - Author's Matlab [code](https://github.com/martin-danelljan/ECO). GPU version coming soon?
-
-- **Visual Object Tracking Challenge (VOT)** [homepage](http://www.votchallenge.net/).
 
 ### Action Recognition
 - [[Paper](https://arxiv.org/abs/1704.07333)] *Detecting and Recognizing Human-Object Interactions*.
