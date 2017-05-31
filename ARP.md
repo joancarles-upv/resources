@@ -77,7 +77,7 @@
 - [**MDNet: Multi-Domain Convolutional Neural Network Tracker**](http://cvlab.postech.ac.kr/research/mdnet/).
   - [Paper](https://arxiv.org/pdf/1510.07945v2.pdf).
   - Author's Matlab [code](https://github.com/HyeonseobNam/MDNet).
-  - Author's PyTorch [code](https://github.com/HyeonseobNam/py-MDNet) (non-official implementation).
+  - Author's PyTorch [code](https://github.com/HyeonseobNam/py-MDNet).
   
 - [**SANet: Structure-Aware Network for Visual Tracking**](http://www.dabi.temple.edu/~hbling/code/SANet/SANet.html).
   - [Paper](http://www.dabi.temple.edu/~hbling/publication/SANet.pdf).
