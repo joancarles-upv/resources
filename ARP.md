@@ -54,6 +54,11 @@
   - Paper [here](http://elijah.cs.cmu.edu/DOCS/CMU-CS-16-118.pdf).
   - [Code](https://github.com/cmusatyalab/openface/).
 
+### Facial Landmark Detection
+- [Facial Landmark Detection with Tweaked Convolutional Neural Networks](http://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/).
+  - [Paper](http://arxiv.org/abs/1511.04031).
+  - GitHub [repo](https://github.com/ishay2b/VanillaCNN) and Python example [notebook](https://github.com/ishay2b/VanillaCNN/blob/master/python/VanillaNoteBook.ipynb).
+
 ### Age and Gender Recognition
 - [**Age and Gender Classification using Convolutional Neural Networks**](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/).
   - [Paper](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/CNN_AgeGenderEstimation.pdf).
