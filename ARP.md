@@ -54,11 +54,16 @@
   - Paper [here](http://elijah.cs.cmu.edu/DOCS/CMU-CS-16-118.pdf).
   - [Code](https://github.com/cmusatyalab/openface/).
 
-### Facial Landmark Detection
-- [How far are we from solving the 2D & 3D Face Alignment problem?](https://www.adrianbulat.com/face-alignment).
+### Face Alignment
+- Michigan State University CV Lab: [**Pose-Invariant Face Alignment (PIFA)**](http://cvlab.cse.msu.edu/project-pifa.html).
+  - [Paper](http://cvlab.cse.msu.edu/pdfs/Jourabloo_Liu_IJCV_2017.pdf).
+  - [Code](https://www.cse.msu.edu/computervision/CVPR16-LargePoseFaceAlignment.zip) + AFLW [dataset](https://www.cse.msu.edu/computervision/AFLW.zip).
+  
+- [**How far are we from solving the 2D & 3D Face Alignment problem?](https://www.adrianbulat.com/face-alignment).
   - [Paper](https://arxiv.org/pdf/1703.07332.pdf).
   - Github [repo](https://github.com/1adrianb/2D-and-3D-face-alignment).
 
+### Facial Landmark Detection
 - [Facial Landmark Detection with Tweaked Convolutional Neural Networks](http://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/).
   - [Paper](http://arxiv.org/abs/1511.04031).
   - GitHub [repo](https://github.com/ishay2b/VanillaCNN) and Python example [notebook](https://github.com/ishay2b/VanillaCNN/blob/master/python/VanillaNoteBook.ipynb).
@@ -86,7 +91,7 @@
   
 - [[Paper](https://arxiv.org/abs/1705.04515v1)] *Spatial-Temporal Recurrent Neural Network for Emotion Recognition* (12 May 2017).
 
-## Recommender Systems
+### Recommender Systems
 - [[Google paper](https://arxiv.org/abs/1606.07792v1)] **Wide & Deep Learning for Recommender Systems** (2016).
   - Official Tensorflow [tutorial](https://www.tensorflow.org/versions/r0.10/tutorials/wide_and_deep/).
   - Google research [blog post](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html).
