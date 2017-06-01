@@ -55,6 +55,10 @@
   - [Code](https://github.com/cmusatyalab/openface/).
 
 ### Facial Landmark Detection
+- [How far are we from solving the 2D & 3D Face Alignment problem?](https://www.adrianbulat.com/face-alignment).
+  - [Paper](https://arxiv.org/pdf/1703.07332.pdf).
+  - Github [repo](https://github.com/1adrianb/2D-and-3D-face-alignment).
+
 - [Facial Landmark Detection with Tweaked Convolutional Neural Networks](http://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/).
   - [Paper](http://arxiv.org/abs/1511.04031).
   - GitHub [repo](https://github.com/ishay2b/VanillaCNN) and Python example [notebook](https://github.com/ishay2b/VanillaCNN/blob/master/python/VanillaNoteBook.ipynb).
