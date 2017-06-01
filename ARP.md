@@ -79,7 +79,6 @@
   - Datasets (faces only): [IMDB (7GB)](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_crop.tar) and [Wiki (1GB)](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar).
 
 ### Emotion Recognition
-- Reuse thesis work based on RNN?
 - [**Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns**](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/).
   - [Paper](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassnerICMI15.pdf).
   - [Python notebook](http://nbviewer.ipython.org/urls/dl.dropboxusercontent.com/u/38822310/DemoDir/EmotiW_Demo.ipynb) for example usage.
