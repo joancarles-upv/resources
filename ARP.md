@@ -55,11 +55,11 @@
   - [Code](https://github.com/cmusatyalab/openface/).
 
 ### Face Alignment
-- Michigan State University CV Lab: [**Pose-Invariant Face Alignment (PIFA)**](http://cvlab.cse.msu.edu/project-pifa.html).
+- [**Pose-Invariant Face Alignment (PIFA)** (Michigan State University CV Lab)](http://cvlab.cse.msu.edu/project-pifa.html).
   - [Paper](http://cvlab.cse.msu.edu/pdfs/Jourabloo_Liu_IJCV_2017.pdf).
   - [Code](https://www.cse.msu.edu/computervision/CVPR16-LargePoseFaceAlignment.zip) + AFLW [dataset](https://www.cse.msu.edu/computervision/AFLW.zip).
   
-- [**How far are we from solving the 2D & 3D Face Alignment problem?](https://www.adrianbulat.com/face-alignment).
+- [**How far are we from solving the 2D & 3D Face Alignment problem?**](https://www.adrianbulat.com/face-alignment).
   - [Paper](https://arxiv.org/pdf/1703.07332.pdf).
   - Github [repo](https://github.com/1adrianb/2D-and-3D-face-alignment).
 
