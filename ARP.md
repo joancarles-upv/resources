@@ -66,9 +66,12 @@
 
 ### Emotion Recognition
 - Reuse thesis work based on RNN?
-- [Recurrent Neural Networks for Emotion Recognition in Video](https://github.com/saebrahimi/Emotion-Recognition-RNN).
+- [**Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns**](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/).
+  - [Paper](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassnerICMI15.pdf).
+  - [Python notebook](http://nbviewer.ipython.org/urls/dl.dropboxusercontent.com/u/38822310/DemoDir/EmotiW_Demo.ipynb) for example usage.
+- [**Recurrent Neural Networks for Emotion Recognition in Video**](https://github.com/saebrahimi/Emotion-Recognition-RNN).
   - [Paper](http://www-etud.iro.umontreal.ca/~michals/pdf/emotion_rnns.pdf).
-- [Deep learning API with emotion recognition application](https://github.com/mihaelacr/pydeeplearn).
+- [**Deep learning API with emotion recognition application**](https://github.com/mihaelacr/pydeeplearn).
   - Project [report](http://www.doc.ic.ac.uk/teaching/distinguished-projects/2014/mrosca.pdf).
   - [How to](https://github.com/mihaelacr/pydeeplearn/blob/master/code/webcam-emotion-recognition/Readme.md) run the code.
   
