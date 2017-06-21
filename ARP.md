@@ -118,3 +118,4 @@
 - [First Affect-in-the-Wild Challenge](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/). [[Videos](https://www.dropbox.com/s/uv3oq7qtyb4qxzi/train.zip?dl=1)] [[Annotations](https://www.dropbox.com/s/3ydatoxj5tirc37/cvpr_mean_annotations_train.zip?dl=1)]
 - **Facial Expression** datasets list [here](https://en.wikipedia.org/wiki/Facial_expression_databases).
 - Datasets maintained by [**ETH Zürich CVL**](http://www.vision.ee.ethz.ch/en/datasets/). 
+- **Affectiva** Facial Expression Dataset(https://www.affectiva.com/facial-expression-dataset/).
